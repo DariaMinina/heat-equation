@@ -1,0 +1,5 @@
+#! /bin/bash
+g++ heat.cpp -std=c++11
+./a.out > heat.plt
+gnuplot heat.plt
+open heat_equation.gif
