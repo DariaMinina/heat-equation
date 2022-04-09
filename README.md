@@ -22,3 +22,8 @@
 
 bash script_heat
 
+Результат для 425 узлов:
+
+
+<img width="610" alt="heat" src="https://user-images.githubusercontent.com/87333725/162577106-9b66aa59-48e6-4bd7-ab08-088965fdf8e1.png">
+
