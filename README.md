@@ -24,6 +24,7 @@ bash script_heat
 
 Результат для 425 узлов:
 
+![heat_equation](https://user-images.githubusercontent.com/87333725/190975225-eb822a8c-a1e1-4a85-a7e6-8caf73278cf5.gif)
 
-<img width="610" alt="heat" src="https://user-images.githubusercontent.com/87333725/162577106-9b66aa59-48e6-4bd7-ab08-088965fdf8e1.png">
+
 
